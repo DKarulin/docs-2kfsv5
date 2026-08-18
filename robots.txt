@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-cz1h91.pulaucuansite.cfd/sitemap.xml
